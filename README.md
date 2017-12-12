@@ -32,7 +32,7 @@ function base64ToImage(base64, path)
 
 2. Open Windows CMD with admin privileges and execute:
 
->    C:\Windows\Microsoft.NET\Framework\v4.0.30319\regasm /codebase "C:\Program Files (x86)\ISS\SecurOS\ServiciosLPR_ISS.dll"
+>    C:\Windows\Microsoft.NET\Framework\v4.0.30319\regasm /codebase "C:\Program Files (x86)\ISS\SecurOS\Base64Javascript.dll"
 
 
 ***Continue if correct registering***
